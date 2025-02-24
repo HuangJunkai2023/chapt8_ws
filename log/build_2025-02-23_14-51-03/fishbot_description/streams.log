@@ -1,0 +1,24 @@
+[0.267s] Invoking command in '/home/huang/chapt8_ws/src/fishbot_description': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/huang/chapt8_ws/build/fishbot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/huang/chapt8_ws/install/fishbot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/fishbot_description build --build-base /home/huang/chapt8_ws/build/fishbot_description/build install --record /home/huang/chapt8_ws/build/fishbot_description/install.log --single-version-externally-managed install_data
+[0.374s] running egg_info
+[0.374s] writing ../../build/fishbot_description/fishbot_description.egg-info/PKG-INFO
+[0.374s] writing dependency_links to ../../build/fishbot_description/fishbot_description.egg-info/dependency_links.txt
+[0.374s] writing entry points to ../../build/fishbot_description/fishbot_description.egg-info/entry_points.txt
+[0.374s] writing requirements to ../../build/fishbot_description/fishbot_description.egg-info/requires.txt
+[0.374s] writing top-level names to ../../build/fishbot_description/fishbot_description.egg-info/top_level.txt
+[0.375s] reading manifest file '../../build/fishbot_description/fishbot_description.egg-info/SOURCES.txt'
+[0.376s] writing manifest file '../../build/fishbot_description/fishbot_description.egg-info/SOURCES.txt'
+[0.376s] running build
+[0.376s] running build_py
+[0.376s] running install
+[0.376s] running install_lib
+[0.377s] running install_data
+[0.377s] creating /home/huang/chapt8_ws/install/fishbot_description/share/fishbot_description/launch
+[0.377s] copying launch/display_rviz2.launch.py -> /home/huang/chapt8_ws/install/fishbot_description/share/fishbot_description/launch
+[0.377s] creating /home/huang/chapt8_ws/install/fishbot_description/share/fishbot_description/urdf
+[0.377s] copying urdf/fishbot_base.urdf -> /home/huang/chapt8_ws/install/fishbot_description/share/fishbot_description/urdf
+[0.377s] running install_egg_info
+[0.378s] removing '/home/huang/chapt8_ws/install/fishbot_description/lib/python3.10/site-packages/fishbot_description-0.0.0-py3.10.egg-info' (and everything under it)
+[0.378s] Copying ../../build/fishbot_description/fishbot_description.egg-info to /home/huang/chapt8_ws/install/fishbot_description/lib/python3.10/site-packages/fishbot_description-0.0.0-py3.10.egg-info
+[0.378s] running install_scripts
+[0.388s] writing list of installed files to '/home/huang/chapt8_ws/build/fishbot_description/install.log'
+[0.398s] Invoked command in '/home/huang/chapt8_ws/src/fishbot_description' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/huang/chapt8_ws/build/fishbot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/huang/chapt8_ws/install/fishbot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/fishbot_description build --build-base /home/huang/chapt8_ws/build/fishbot_description/build install --record /home/huang/chapt8_ws/build/fishbot_description/install.log --single-version-externally-managed install_data

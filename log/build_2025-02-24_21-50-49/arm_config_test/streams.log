@@ -1,0 +1,60 @@
+[0.007s] Invoking command in '/home/huang/chapt8_ws/build/arm_config_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/huang/chapt8_ws/install/fishbot_description:/home/huang/ws_moveit2/install/moveit_configs_utils:/home/huang/ws_moveit2/install/launch_param_builder:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/huang/chapt8_ws/src/arm_config_test -DCMAKE_INSTALL_PREFIX=/home/huang/chapt8_ws/install/arm_config_test
+[0.049s] -- The C compiler identification is GNU 11.4.0
+[0.079s] -- The CXX compiler identification is GNU 11.4.0
+[0.084s] -- Detecting C compiler ABI info
+[0.132s] -- Detecting C compiler ABI info - done
+[0.136s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.136s] -- Detecting C compile features
+[0.136s] -- Detecting C compile features - done
+[0.138s] -- Detecting CXX compiler ABI info
+[0.190s] -- Detecting CXX compiler ABI info - done
+[0.193s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.193s] -- Detecting CXX compile features
+[0.194s] -- Detecting CXX compile features - done
+[0.197s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.406s] -- Found Python3: /home/huang/anaconda3/bin/python3 (found version "3.12.7") found components: Interpreter 
+[0.542s] -- Configuring done
+[0.543s] -- Generating done
+[0.543s] -- Build files have been written to: /home/huang/chapt8_ws/build/arm_config_test
+[0.546s] Invoked command in '/home/huang/chapt8_ws/build/arm_config_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/huang/chapt8_ws/install/fishbot_description:/home/huang/ws_moveit2/install/moveit_configs_utils:/home/huang/ws_moveit2/install/launch_param_builder:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/huang/chapt8_ws/src/arm_config_test -DCMAKE_INSTALL_PREFIX=/home/huang/chapt8_ws/install/arm_config_test
+[0.546s] Invoking command in '/home/huang/chapt8_ws/build/arm_config_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/huang/chapt8_ws/install/fishbot_description:/home/huang/ws_moveit2/install/moveit_configs_utils:/home/huang/ws_moveit2/install/launch_param_builder:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/huang/chapt8_ws/build/arm_config_test -- -j20 -l20
+[0.573s] Invoked command in '/home/huang/chapt8_ws/build/arm_config_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/huang/chapt8_ws/install/fishbot_description:/home/huang/ws_moveit2/install/moveit_configs_utils:/home/huang/ws_moveit2/install/launch_param_builder:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/huang/chapt8_ws/build/arm_config_test -- -j20 -l20
+[0.581s] Invoking command in '/home/huang/chapt8_ws/build/arm_config_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/huang/chapt8_ws/install/fishbot_description:/home/huang/ws_moveit2/install/moveit_configs_utils:/home/huang/ws_moveit2/install/launch_param_builder:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/huang/chapt8_ws/build/arm_config_test
+[0.586s] -- Install configuration: ""
+[0.586s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/ament_index/resource_index/package_run_dependencies/arm_config_test
+[0.586s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/ament_index/resource_index/parent_prefix_path/arm_config_test
+[0.586s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/environment/ament_prefix_path.sh
+[0.586s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/environment/ament_prefix_path.dsv
+[0.586s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/environment/path.sh
+[0.586s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/environment/path.dsv
+[0.586s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/local_setup.bash
+[0.586s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/local_setup.sh
+[0.586s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/local_setup.zsh
+[0.586s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/local_setup.dsv
+[0.587s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/package.dsv
+[0.587s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/ament_index/resource_index/packages/arm_config_test
+[0.587s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/cmake/arm_config_testConfig.cmake
+[0.587s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/cmake/arm_config_testConfig-version.cmake
+[0.587s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/package.xml
+[0.587s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/launch
+[0.587s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/launch/demo.launch.py
+[0.587s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/launch/spawn_controllers.launch.py
+[0.587s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/launch/setup_assistant.launch.py
+[0.587s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/launch/warehouse_db.launch.py
+[0.587s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/launch/move_group.launch.py
+[0.587s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/launch/static_virtual_joint_tfs.launch.py
+[0.587s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/launch/rsp.launch.py
+[0.587s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/launch/moveit_rviz.launch.py
+[0.587s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/config
+[0.587s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/config/kinematics.yaml
+[0.587s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/config/aubo_i5.urdf.xacro
+[0.587s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/config/joint_limits.yaml
+[0.587s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/config/pilz_cartesian_limits.yaml
+[0.587s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/config/initial_positions.yaml
+[0.588s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/config/moveit_controllers.yaml
+[0.588s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/config/ros2_controllers.yaml
+[0.588s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/config/moveit.rviz
+[0.588s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/config/aubo_i5.srdf
+[0.588s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/config/aubo_i5.ros2_control.xacro
+[0.588s] -- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/.setup_assistant
+[0.589s] Invoked command in '/home/huang/chapt8_ws/build/arm_config_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/huang/chapt8_ws/install/fishbot_description:/home/huang/ws_moveit2/install/moveit_configs_utils:/home/huang/ws_moveit2/install/launch_param_builder:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/huang/chapt8_ws/build/arm_config_test

@@ -1,0 +1,9 @@
+/home/huang/chapt8_ws/build/arm_config_test/CMakeFiles/uninstall.dir
+/home/huang/chapt8_ws/build/arm_config_test/CMakeFiles/arm_config_test_uninstall.dir
+/home/huang/chapt8_ws/build/arm_config_test/CMakeFiles/test.dir
+/home/huang/chapt8_ws/build/arm_config_test/CMakeFiles/edit_cache.dir
+/home/huang/chapt8_ws/build/arm_config_test/CMakeFiles/rebuild_cache.dir
+/home/huang/chapt8_ws/build/arm_config_test/CMakeFiles/list_install_components.dir
+/home/huang/chapt8_ws/build/arm_config_test/CMakeFiles/install.dir
+/home/huang/chapt8_ws/build/arm_config_test/CMakeFiles/install/local.dir
+/home/huang/chapt8_ws/build/arm_config_test/CMakeFiles/install/strip.dir

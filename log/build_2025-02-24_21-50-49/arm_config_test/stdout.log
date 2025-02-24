@@ -1,0 +1,54 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /home/huang/anaconda3/bin/python3 (found version "3.12.7") found components: Interpreter 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/huang/chapt8_ws/build/arm_config_test
+-- Install configuration: ""
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/ament_index/resource_index/package_run_dependencies/arm_config_test
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/ament_index/resource_index/parent_prefix_path/arm_config_test
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/environment/ament_prefix_path.sh
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/environment/ament_prefix_path.dsv
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/environment/path.sh
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/environment/path.dsv
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/local_setup.bash
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/local_setup.sh
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/local_setup.zsh
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/local_setup.dsv
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/package.dsv
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/ament_index/resource_index/packages/arm_config_test
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/cmake/arm_config_testConfig.cmake
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/cmake/arm_config_testConfig-version.cmake
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/package.xml
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/launch
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/launch/demo.launch.py
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/launch/spawn_controllers.launch.py
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/launch/setup_assistant.launch.py
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/launch/warehouse_db.launch.py
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/launch/move_group.launch.py
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/launch/static_virtual_joint_tfs.launch.py
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/launch/rsp.launch.py
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/launch/moveit_rviz.launch.py
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/config
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/config/kinematics.yaml
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/config/aubo_i5.urdf.xacro
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/config/joint_limits.yaml
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/config/pilz_cartesian_limits.yaml
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/config/initial_positions.yaml
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/config/moveit_controllers.yaml
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/config/ros2_controllers.yaml
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/config/moveit.rviz
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/config/aubo_i5.srdf
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/config/aubo_i5.ros2_control.xacro
+-- Installing: /home/huang/chapt8_ws/install/arm_config_test/share/arm_config_test/.setup_assistant
